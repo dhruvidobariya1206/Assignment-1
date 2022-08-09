@@ -12,4 +12,3 @@ while(z<50):
     y=z
     z=x+y
     
-    
